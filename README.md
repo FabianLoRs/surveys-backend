@@ -1,6 +1,6 @@
 # Surveys app
 
-The back-end of a surveys app.
+The back-end of a simple surveys app.
 
 The technologies I am using are:
 
